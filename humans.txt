@@ -3,8 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    <name> --               <role> --                           <twitter>           <email>
+    Mathew Pineda           Developer/DevOps                                        mpineda3247@gmail.com
+    Liz Meziteke            Developer                                               meziteke@gmail.com
+    Emmanuel Odianosen      Developer/DevOps/Project Lead       @emma_odia          odia.emma@gmail.com
+   
 # THANKS
 
     <name>
