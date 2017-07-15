@@ -14,5 +14,5 @@
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5
+    CSS3, HTML5, Owl Carouael
     Apache Server Configs, jQuery, Modernizr, Normalize.css
