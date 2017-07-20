@@ -4,15 +4,15 @@
 # TEAM
 
     <name> --               <role> --                           <twitter>           <email>
-    Mathew Pineda           Developer/DevOps                                        mpineda3247@gmail.com
+    Mathew Pineda           Developer/DevOps                    @bowedcontainer3    mpineda3247@gmail.com
     Liz Meziteke            Developer                                               meziteke@gmail.com
     Emmanuel Odianosen      Developer/DevOps/Project Lead       @emma_odia          odia.emma@gmail.com
-   
+
 # THANKS
 
     <name>
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5, Owl Carouael
+    CSS3, HTML5, Owl Carousel
     Apache Server Configs, jQuery, Modernizr, Normalize.css
