@@ -280,3 +280,8 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+.main-header,.product-header {
+  background-image: url(header-icons_2x.b8448e.png);
+  background-color: #21cdb2;
+}
