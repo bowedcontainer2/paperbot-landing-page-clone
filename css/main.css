@@ -95,17 +95,10 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
-   body
-   {
-     background-color: #21CDB2
+body {
+     background-color: #21cdb2;
+     margin: 0;
    }
-
-
-
-
-
-
 
 
 
@@ -280,6 +273,35 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+button {
+  overflow: visible;
+}
+
+a {
+  background-color: transparent;
+}
+
+.btn {
+  display: inline-block;
+  margin-bottom: 0;
+  font-weight: 400;
+  text-align: center;
+  vertical-align: center;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  font-size: 14px;
+  border-radius: 1em;
+  padding: 6px 12px;
+  line-height: 1.42857;
+}
+
+.btn-default {
+  color: #21cdb2
+}
+
 .container {
   margin-right: auto;
   margin-left: auto;
