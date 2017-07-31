@@ -280,8 +280,22 @@ textarea {
         page-break-after: avoid;
     }
 }
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
 
 .main-header,.product-header {
-  background-image: url(header-icons_2x.b8448e.png);
+  background-image: url("header-icons_2x.b8448e.png");
   background-color: #21cdb2;
+  color: #fff;
+}
+/* This section formats pages for different sized screens. */
+@media only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (-webkit-min-pixel-ratio:1.3020833333333333),only screen and (min--moz-device-pixel-ratio:1.3),only screen and (min-resolution:1.3dppx),only screen and (min-resolution:125dpi) {
+  .main-header,.product-header {
+    background-image: url("header-icons_2x.b8448e.png");
+    background-size: 740px 340px
+  }
 }
