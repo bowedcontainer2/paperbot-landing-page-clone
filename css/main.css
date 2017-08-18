@@ -314,6 +314,11 @@ a {
   width: 8.68753em
 }
 
+.main-header .btn-slack {
+  height: 80px;
+  width: 278px
+}
+
 .main-header,.product-header {
   background-image: url("images/header-icons_2x.b8448e.png");
   background-color: #21cdb2;
